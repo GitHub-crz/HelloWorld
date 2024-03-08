@@ -1,0 +1,23 @@
+# ninja log v5
+4	1141	7005026849890916	CMakeFiles/HelloWorld.dir/main.cpp.obj	7ad2790b65ace1b7
+1142	1660	7005026855069157	HelloWorld.exe	133947a8d7ebbaaa
+10	631	7226310255729480	CMakeFiles/HelloWorld.dir/test.cpp.obj	626b8221a5d2b532
+5	104	7226311600235926	CMakeFiles/HelloWorld.dir/main.cpp.obj	c40dd52d72855e3a
+105	359	7226311602746493	HelloWorld.exe	c8923dd954dc7a1b
+4	614	7226314912138850	CMakeFiles/HelloWorld.dir/test.cpp.obj	626b8221a5d2b532
+615	855	7226314914524358	HelloWorld.exe	c8923dd954dc7a1b
+4	622	7226332371722292	CMakeFiles/HelloWorld.dir/test.cpp.obj	626b8221a5d2b532
+623	858	7226332374062884	HelloWorld.exe	c8923dd954dc7a1b
+4	602	7226332892269441	CMakeFiles/HelloWorld.dir/test.cpp.obj	626b8221a5d2b532
+603	834	7226332894559957	HelloWorld.exe	c8923dd954dc7a1b
+4	612	7226333438906894	CMakeFiles/HelloWorld.dir/test.cpp.obj	626b8221a5d2b532
+613	843	7226333441197406	HelloWorld.exe	c8923dd954dc7a1b
+4	683	7226335868725990	CMakeFiles/HelloWorld.dir/test.cpp.obj	626b8221a5d2b532
+684	927	7226335871145350	HelloWorld.exe	c8923dd954dc7a1b
+4	608	7226336273814073	CMakeFiles/HelloWorld.dir/test.cpp.obj	626b8221a5d2b532
+609	833	7226336276049635	HelloWorld.exe	c8923dd954dc7a1b
+4	629	7226338679663087	CMakeFiles/HelloWorld.dir/test.cpp.obj	626b8221a5d2b532
+630	876	7226338682103633	HelloWorld.exe	c8923dd954dc7a1b
+4	614	7226338887743496	CMakeFiles/HelloWorld.dir/test.cpp.obj	626b8221a5d2b532
+615	853	7226338890109604	HelloWorld.exe	c8923dd954dc7a1b
+0	14	0	clean	ed4d0457a5abb456
